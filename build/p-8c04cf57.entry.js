@@ -1,0 +1,1 @@
+import{r as l,h as e}from"./p-690f29fd.js";let t=class{constructor(e){l(this,e)}render(){return e("div",null,e("h2",null,"Bierdeckelapp"),e("stencil-route-link",{url:"/aufnehmen"},e("button",null,"Bestellung aufnehmen")),e("stencil-route-link",{url:"/produktliste"},e("button",null,"Produktliste")))}};export{t as app_default}
